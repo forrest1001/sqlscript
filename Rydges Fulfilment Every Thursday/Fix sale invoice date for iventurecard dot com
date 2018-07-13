@@ -1,0 +1,38 @@
+select * from vouchersalecode
+where distributorid = 48315
+and salecodeownerid = 25137
+
+
+and datetoinvoice is null
+
+197566
+
+select * from voucher where voucherid in (
+select distinct voucherid from vouchersalecode
+where distributorid = 48315
+and salecodeownerid = 25137)
+
+update voucher set datetoinvoice = saledate where voucherid = 197566;
+update vouchersalecode set datetoinvoice = saledate, pmdatetoinvoice = saledate, saleinvoicestatus = 1, pmsaleinvoicestatus = 1 where voucherid = 197566;
+
+select * from vouchersalecode
+where distributorid = 48315
+and salecodeownerid = 25137
+and (saleinvoicestatus =0 or pmsaleinvoicestatus = 0);
+
+
+update vouchersalecode
+set saleinvoicestatus = 1, pmsaleinvoicestatus = 1
+where voucherid in (196256,197064,197521,197521,197548,
+197483,197546,197546,197320,197525,
+196517,196242,196646,197110,196160,
+196341,196847,196847,197066,197067,
+197106,197253,196739,196158,196469);
+
+select * from voucher
+where voucherid in (196256,197064,197521,197521,197548,
+197483,197546,197546,197320,197525,
+196517,196242,196646,197110,196160,
+196341,196847,196847,197066,197067,
+197106,197253,196739,196158,196469)
+

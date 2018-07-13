@@ -1,0 +1,47 @@
+Active Member Counts
+* Count of unique members who have a membership card and stayed (both eligible & non eligible nights) during the period 17-Sep-14 to 16-Sep-15 (previous 12 month [ F ])
+	
+* Count of unique members who have a membership card and stayed (both eligible & non eligible nights) during the period 16-Sep-15 to 14-Sep-16 (current 12 months [ E ]) and the number of room nights over the same period broken down as follows.
+	
+Rydges AU & NZ	Members	Nights
+	
+* Count of unique members who have a membership card and stayed (both eligible & non eligible nights) during the period 16-Sep-14 to 14-Sep-16 (current 24 months [ G ]) and the number of room nights over the same period broken down as follows.
+	
+Rydges AU & NZ	Members	Nights
+
+
+Non Active Member Count
+* Count of unique members have a membership card and did not stay during the period 16-Sep-15 to 14-Sep-16 (last 12 months [ E ]).
+	
+* Count of unique members have a membership card and did not stay during the period 16-Sep-14 to 14-Sep-16 (last 24 months [ G ]).
+	
+
+Member Count
+* Count of unique members who stayed (both eligible & non eligible nights) during the period 01-Jul-16 to 14-Sep-16 (i.e. this financial year [ C ]) and the number of room nights over the same period.
+o unique member stays
+o eligible room nights
+o non eligible room nights
+* Count of unique members who stayed (both eligible & non eligible nights) during the period 01-Jul-15 to 16-Sep-15 (i.e. last financial year [ D ]) and the number of room nights over the same period.
+o unique member stays
+o eligible room nights
+o non eligible room nights
+* Count of unique members who stayed (both eligible & non eligible nights) during the period 08-Sep-16 to 14-Sep-16 [ A ] and the number of room nights over the same period.
+o unique member stays
+o eligible room nights
+o non eligible room nights
+* Count of unique members who stayed (both eligible & non eligible nights) during the period 10-Sep-15 to 16-Sep-15 (i.e. [ B ] same period last year) and the number of room nights over the same period.
+o unique member stays
+o eligible room nights
+o non eligible room nights
+
+New Signups
+* Count of unique new enrolments (i.e. all members who have signed up online or via kiosk) during the period 10-Sep-15 to 16-Sep-15 inclusive (i.e. same period last year [ H ]).
+	
+* Count of unique new enrolments (i.e. all members who have signed up online or via kiosk) during the period 30-Jun-15 to 16-Sep-15 inclusive (i.e. last financial year [ I ]).
+	
+
+Newly Activated Member Count
+* Count of unique activated memberships (i.e. all new members who have been issued a card) during the period 10-Sep-15 to 16-Sep-15 inclusive (i.e. same period last year [ H ]).
+	
+* Count of unique activated memberships (i.e. all new members who have been issued a card) during the period 30-Jun-15 to 16-Sep-15 inclusive (i.e. last financial year [ I ]).
+	
